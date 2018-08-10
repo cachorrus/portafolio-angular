@@ -1,6 +1,7 @@
 # Portafolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
+basado en la plantilla [Urku Portafolio](http://themes-pixeden.com/landing/urku/portfolio-masonry.html)
 
 ## Development server
 
