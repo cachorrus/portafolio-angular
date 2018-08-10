@@ -1,7 +1,7 @@
 export interface Equipo {
-  frase?: string;
-  nombre?: string;
-  position?: string;
-  twitter?: string;
-  url?: string;
+  frase: string;
+  nombre: string;
+  position: string;
+  twitter: string;
+  url: string;
 }
